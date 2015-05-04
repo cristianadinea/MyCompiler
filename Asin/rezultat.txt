@@ -1,0 +1,7 @@
+Eroare, lipseste ; pe linia: 11
+Eroare la ListaCamp1 la linia: 11
+Eroare la ListaCamp la linia: 11
+Eroare la TipStruct la linia: 11 
+Eroare la Tip la linia: 11
+Eroare la InstrComp la linia: 11
+Eroare la Bloc

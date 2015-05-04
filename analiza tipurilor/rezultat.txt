@@ -1,0 +1,7 @@
+Eroare la ListaDeclVar la linia: 11
+Eroare la SectiuneVar la linia: 11
+Eroare la Bloc pe linia: 11
+Eroare la InstrComp la linia: 11
+Eroare la Bloc pe linia: 11
+Eroare la InstrComp la linia: 11
+Eroare la Bloc

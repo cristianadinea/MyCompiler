@@ -1,0 +1,8 @@
+Eroare lipseste : pe linia: 15 
+Eroare la DeclSimpla pe linia: 15
+Eroare la ListaParamForm1 pe linia: 15
+Eroare la ListaParamForm pe linia: 15
+Eroare la ParamForm pe linia: 15
+Eroare la AntetSubprog  pe linia: 15
+Eroare la InstrComp la linia: 15
+Eroare la Bloc

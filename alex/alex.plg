@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: alex - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ALEXAN~1\LOCALS~1\Temp\RSPB.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/alex.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\Alexandra\Desktop\tc final\alex\alex.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ALEXAN~1\LOCALS~1\Temp\RSPB.tmp" 
+Creating temporary file "C:\DOCUME~1\ALEXAN~1\LOCALS~1\Temp\RSPC.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/alex.pdb" /debug /machine:I386 /out:"Debug/alex.exe" /pdbtype:sept 
+".\Debug\alex.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\ALEXAN~1\LOCALS~1\Temp\RSPC.tmp"
+<h3>Output Window</h3>
+Compiling...
+alex.cpp
+C:\Documents and Settings\Alexandra\Desktop\tc final\alex\alex.cpp(197) : warning C4018: '<' : signed/unsigned mismatch
+C:\Documents and Settings\Alexandra\Desktop\tc final\alex\alex.cpp(215) : warning C4018: '<' : signed/unsigned mismatch
+C:\Documents and Settings\Alexandra\Desktop\tc final\alex\alex.cpp(224) : warning C4018: '<' : signed/unsigned mismatch
+C:\Documents and Settings\Alexandra\Desktop\tc final\alex\alex.cpp(373) : warning C4018: '<' : signed/unsigned mismatch
+C:\Documents and Settings\Alexandra\Desktop\tc final\alex\alex.cpp(388) : warning C4018: '<' : signed/unsigned mismatch
+Linking...
+
+
+
+<h3>Results</h3>
+alex.exe - 0 error(s), 5 warning(s)
+</pre>
+</body>
+</html>
